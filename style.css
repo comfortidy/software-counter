@@ -1,5 +1,5 @@
 body{
-    background-color: black
+    background-color: black;
 }
 .container{
     margin: auto;
@@ -29,4 +29,8 @@ body{
 #logo{
     height: 3rem;
     
+}
+.para{
+    font-size: large;
+    font-weight: 600;
 }
