@@ -1,9 +1,4 @@
-/*var count = 0
-function changeCount(num) {
-  count += num;
-  document.getElementById('count').innerHTML =
-  count;
-}*/
+
 
 var para = document.querySelector("p")
 var count = 0
@@ -30,9 +25,4 @@ function reset() {
   document.getElementById("count").innerHTML = count;
 }
 
-
-/*var reset = document.querySelector
-function reset(){
-
-}*/
 
